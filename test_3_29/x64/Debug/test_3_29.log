@@ -1,0 +1,11 @@
+﻿  SeqList.c
+C:\Users\user\source\repos\test_3_29\test_3_29\SeqList.c(35,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\user\source\repos\test_3_29\test_3_29\SeqList.c(62,18): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\user\source\repos\test_3_29\test_3_29\SeqList.c(51,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\user\source\repos\test_3_29\test_3_29\SeqList.c(108,18): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\user\source\repos\test_3_29\test_3_29\SeqList.c(97,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\user\source\repos\test_3_29\test_3_29\SeqList.c(121,14): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  test.c
+C:\Users\user\source\repos\test_3_29\test_3_29\test.c(10,7): warning C4013: “menu”未定义；假设外部返回 int
+  正在生成代码...
+  test_3_29.vcxproj -> C:\Users\user\source\repos\test_3_29\x64\Debug\test_3_29.exe
